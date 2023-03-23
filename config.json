@@ -1,0 +1,9 @@
+{
+  "token": "user token",
+  "owners": ["owner id", "id 2"],
+  "mongourl": "mongourl",
+  "database": {
+    "name": "database-name"
+  },
+  "prefix": "prefix"
+}

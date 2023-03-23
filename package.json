@@ -1,0 +1,14 @@
+{
+  "name": "autoshare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.12.1",
+    "mongoose": "^7.0.2"
+  }
+}
