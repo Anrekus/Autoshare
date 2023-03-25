@@ -12,7 +12,7 @@
 /**
  * import mongoose models
  */
-const AutoShare = require("../models/AutoShare");
+const AutoShare = require("../models/autoshare");
 
 /**
  * create class db with object name
